@@ -26,7 +26,7 @@
 
 - Know-what es historia. Saber el cómo pasó y el know-how es saber cómo se hicieron las cosas.
 
-![copa](FOLDER/copa_Mesadetrabajo1.png)
+![copa](FOLDER/copa.png)
 
 - **Caudal:** corriente de agua que pasa por un lugar
 
