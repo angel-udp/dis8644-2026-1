@@ -115,9 +115,7 @@ I = V / R
 
 
 # Código de color de resistencia
-
-Café, Negro, Rojo, Dorado  
-Tabla de resistencia  
+![codigo](./imagenes/codigo-resistencia.jpg)
 
 DORADO = TOLERANCIA (5%)
 
