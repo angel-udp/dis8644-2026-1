@@ -128,6 +128,7 @@ Como mencione, a pesar de haberlo realizado, me costó entenderlo nuevamente
 | R4            |    G5,D5     |  
 | R5            |    G12,G14   | 
 
+![ejercicio 1](imagenes/ejercicio_1.jpg)
 Ejercicio 2
 
 1. Primero realice el circuito central y funciono solo.
@@ -157,6 +158,7 @@ Ejercicio 2
 | R7            |    I26,I28   |  
 | R8            |    G29,E29   | 
 
+![ejercicio 2](imagenes/ejercicio_2.jpg)
 
 
 
