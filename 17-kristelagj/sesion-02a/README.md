@@ -102,8 +102,12 @@ Kraftwerk
 
 De primeras, cuando los escuché en la sala de clases, no me gustaron para nada, son 0 lo que escucho y me gusta. Puedo decir que no me gustan los sonidos que utilizan en muchos de sus temas, eso es lo que me llama la atención la atención de ellos además como utilizan sus voces, no es agradable. 
 
-Pero a pesar de mi opinión personal no se puede negar ni dejar de lado la importancia que tiene a la música electrónica, en estos casos hay que saber reconocer considerándose como los “Beatles de la música electrónica”. 
+Pero a pesar de mi opinión personal no se puede negar ni dejar de lado la importancia que tiene a la música electrónica, en estos casos hay que saber reconocer considerándolos como los “Beatles de la música electrónica”. 
 
+En mi caso escogí el álbum The Man-Machine ya que es uno de los discos más influyentes en la historia de la música electrónica. Este gira en torno a la fusión entre humanos y tecnología, explorando la pérdida de identidad humana en un mundo automatizado.
+Esto era muy adelantado para 1978, cuando la digitalización recién comenzaba.
+
+El disco contenía Sintetizadores analógicos, drum machines primitivas, secuencias repetitivas (loops). Además su portada estaba  inspirada en propaganda soviética
 
 - Ejercicios
 
@@ -170,4 +174,8 @@ Ejercicio 2
 ![ejercicio evidencia](imagenes/ejercicio2_evidencia.jpeg)
 
 Todos mis resultados eran comparados con mi amiga Paula y ambas teniamos resultados distintos en ciertas resitencias. 
+
+Ejercicio 3
+
+Inetente muchas veces hacerlo, pero no me resulto. Se me hizo difícil! 
 
