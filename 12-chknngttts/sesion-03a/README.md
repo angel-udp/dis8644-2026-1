@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/cb364d94-11fe-41d5-97d5-a82c038dfc8d
 https://github.com/user-attachments/assets/ba4bdb9e-a0a1-4b79-bdf0-37af7b007964
 
 - ### **ahora fotoresistor y potenciometro**
-  - primero experimentamos más con como/donde poner el potenciador para manejar mejor el tono con la luz
+  - primero experimentamos más con como/donde poner el potencometro para manejar mejor el tono con la luz
 
 https://github.com/user-attachments/assets/d71e507b-4418-457a-b7f7-534d8abd7215
 
@@ -74,5 +74,36 @@ https://github.com/user-attachments/assets/50f857e5-37db-4d89-b2d2-fb45f96c2c6c
           - al probar conectando/desconectando distintos cables el 555 se empezó a calentar mucho
             - y murió
               - ![quema quema 555](./imagenes/555_muerte.gif)
+            - lo intenté denuevo otro dia para ver si lo podria hacer
+              - denuevo no me funcionó
+                - ![sad](./imagenes/sad.png)
+    - encontré un video en youtube que hacia una especie de toy organ
+      - https://www.youtube.com/watch?v=Mw5FAIA1ghs
+      - no es el que nos pidieron pero era una versión alterna
+        - lo intenté hacer y no me funcionó como deberia
+          - no lo segui al pie de la letra tampoco, más que nada era para hacer algo
+          - ![sad](./imagenes/sad.png)
+          - pero si sonaba interesante!!!
+            - ![intento toy organ1](./imagenes/toy_organ21.jpg) ![intento toy organ2](./imagenes/toy_organ22.jpg) ![intento toy organ3](./imagenes/toy_organ23.jpg)
+           
+https://github.com/user-attachments/assets/a1360b00-dafa-4844-bd64-4b825d612af1
 
-**FALTAN COSAS WRAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH**
+  - el boton estaba ahí por ninguna razón, no cambiaba nada
+  - mi favorito (100uf)
+    - suena fuerte y distorcionado
+
+https://github.com/user-attachments/assets/705e9db5-237f-4ad4-82dd-34e0aca97694
+
+  - le cambié la resistencia que da al parlante por una de 10uf
+
+https://github.com/user-attachments/assets/ca6b71ee-aebb-45fd-96db-4b6c7349be76
+
+  - le cambié el boton por 2 potenciometros para poder manejar mejor el tono
+    - y un fotoresistor para manejarlo más rapido
+   
+---------------------------------------------------------------------------------------------------
+
+- ## **variaciones espectrales**
+  - documental 2013
+  - **ME FALTAVERLO LO VEO HOY HOLA**
+    
