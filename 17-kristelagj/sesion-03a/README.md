@@ -60,7 +60,7 @@ Con mi grupo tomamos la decisión de tener un proceso personal ya que la moviliz
 
 No funciono, santi nos mando su resultado y compare que me faltaba que el tenia (a él si le resulto)
 
-![santi](resultado_santi.jpeg) 
+![santi](imagenes/resultado_santi.jpeg) 
 
 - Cómo leer un esquemático
 
