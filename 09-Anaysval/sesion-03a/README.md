@@ -11,7 +11,7 @@ Hoy seguimos trabajando con el chip 555 en un circuito astable, que al principio
   
   ### Ejercicio en clases:
 
-![foto](./sesion-a3.png)
+![foto](./imagenes/sesion-a3.png)
 
 ### Fotoresistor 
 
@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/e830d436-f7b9-4baa-ac12-76179a2547ec
 
 Hecho junto a Benjamín Álvarez.
 
-![foto](./ejercicio.png)
+![foto](./imagenes/ejercicio.png)
 
 https://github.com/user-attachments/assets/9b005352-1dd5-422e-a717-1c352839a987
 
