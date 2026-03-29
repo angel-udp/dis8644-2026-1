@@ -15,6 +15,8 @@
 ### Circuito 1
 
 ![foto del plano del circuito + el circuito realizado](./imagenes/encargo_circuito1.png)
+![tabla del funcionamiento del circuito](./imagenes/circuito1_tabla.png)
+
 
 # 02. Kraftwerk
 
