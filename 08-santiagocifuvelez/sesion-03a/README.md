@@ -25,6 +25,8 @@ La frecuencia es básicamente qué tan rápido se repite una señal eléctrica e
 
 Pues este funciona con una frecuencia de oscilación:
 
+![frecuencia,oscilación 555](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03a/imagenes/img2.jpg)
+
 ## 2. Esquematización del parlante y de los botones.
 
 
