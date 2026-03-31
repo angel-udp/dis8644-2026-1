@@ -17,5 +17,5 @@ Introducción al sonido en la protoboard
 Circuito realizado: Victorian oscilator
 Circuito sonoro realizado en protoboard a partir de un chip 555, resistores, capacitores, push button, parlante, potenciómetro y una batería. (si funcionó)
 
-!(11-martinaechavarria-stack/sesion-03a/imagenes/oscilator.jpeg)
+![texto explicativo](./imagenes/oscilator.jpeg)
 
