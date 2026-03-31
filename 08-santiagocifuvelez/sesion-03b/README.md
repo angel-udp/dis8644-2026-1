@@ -25,6 +25,8 @@ Existen dos casos principales:
 **1. Resistencias en serie (una tras otra)** <br>
 Aquí, la corriente pasa por todas seguidas, se suman:
 
+![frecuencia](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03a/imagenes/img1.jpg)
+
 10k + 10k + 10k = 30kΩ   
 Más resistencias → más oposición → menos corriente.
 
