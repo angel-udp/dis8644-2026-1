@@ -40,6 +40,8 @@ Entre más resistencia, menos cantidad de energía
 
 Condensador es como un torniquete (suavizador)
 
+![555](imagenes/555.jpeg)
+
 ### imagenes de proceso
 
 ### post-clase
