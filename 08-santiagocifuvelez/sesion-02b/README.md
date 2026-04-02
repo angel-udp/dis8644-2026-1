@@ -34,6 +34,12 @@ A manera de conclusión, la luz LED puede parpadear o muy rápido o muy lento, y
 
 ## 5.  10 preguntas 
 
+1.	¿Vamos a aprender a hacer las carcasas o empaques funcionales de los instrumentos que realicemos? 
+2.	¿Podríamos separar algún tipo de asesoría para aprender a imprimir en 3d (es que no se :c, y revisando apuntes del curso anterior, si que usaron la impresora 3d para crear las carcasas o empaques de las maquinas). 
+3.	¿Cuándo vamos a ver a Arca como referente?
+4.	¿Podríamos trabajar también con gráficos en movimiento?, tipo, el sonido haga una reacción gráfica en una pantalla chiquita.
+5.	Estoy muy feliz con la asignatura c:
+
 Fin c:
 
 
