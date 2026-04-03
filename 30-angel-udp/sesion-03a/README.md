@@ -46,7 +46,7 @@ Hacemos que este chip genera energia electrica que golpea los imanes de la bocin
 
 ### experimento del profe
 
-**conecta directamente la batería el polo positivo al parlante y el polo negativo también al negativo (el parlante se enguata) pero cuando se invierten los polos el parlante se contrae)**
+conecta directamente la batería el polo positivo al parlante y el polo negativo también al negativo (el parlante se enguata) pero cuando se invierten los polos el parlante se contrae.
 
 Jhon Cage: es bueno en música y sonido y sabe sobre champiñones
 
@@ -91,6 +91,7 @@ RV es el potenciometro
 ### Desarrollo Encargo
 
 Circuito Toy organ
+
 ---
 
 Trabajé junto a mi compañero Tomás Catrileo para tener un total de 2 botones y como el se quedó con el hardware (osea mi botón / Switch), hicimos las ruebas en en TINKERCAD para entenderlo y luego desarrollarlo en físico.
@@ -110,9 +111,8 @@ Matuvimos y repasamos el circuito aprendido en clase e hicimos el inteto siguien
 ![ejemplo 5](./imagenes/circuito_organ_esquema.png)
 
 Documental: Variaciones Espectrales
----
 
-**Apuntes**
+---
 
 Del video de Youtube "archivo histórico y fonográfico, radio valentín leteiler, valparaíso, chile", "exposición de sonidos electrónicos y música con computadores" / Ip "el computador virtuoso".
 
