@@ -34,8 +34,14 @@ Know-How, Know-What: Historia
 
 ## Palabras asociadas
 
-Resistencia, Flujo, Potencial, Corriente, Diferencia, Poder, Energpia, Conducir, Materia: Carbón/silicio/cobre
+Resistencia, Flujo, Potencial, Corriente, Diferencia, Poder, Energía, Conducir, Materia: Carbón/silicio/cobre
 
 ---
 
 Link de formas de agregar estilo al texto: <https://github.com/lifeparticle/Markdown-Cheatsheet>
+
+### No pude agregar commits en el mi otro computador donde sí hice el encargo :,c
+
+Pegaré el comentario que escribi en google docs
+
+@<aaron.montoya@mail.udp.cl> Profe yo vi el documental y anoté los aportes sobre Aaron Swartz y parece que me equivoqué y no puse suscribir comits asi que no se guardó, pero se que el fue un destacado programador, contribuyó con la creación de reddit y lastimosamente se suicido. No se si se pueda hacer algo pero se que si lo hice y vi todo el video :C pondré esto en el Github

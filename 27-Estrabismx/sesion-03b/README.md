@@ -1,5 +1,9 @@
 # sesion-03b
 
+***Actualizar sobre suma de resistencias e investigar las leyes de Kirchhoff***
+
+>En la sesion-04a se profundizará, ahora no hay tiempo y creo que quedó un registro algo extenso
+
 ## Apuntes clase viernes 27 de marzo ##
 
 ### Simbología ###
