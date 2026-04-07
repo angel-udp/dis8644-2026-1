@@ -22,4 +22,8 @@
  ## VCV RACK
 - vco, scope, audio 
 - onda seno
-- vco a vca y vca a parlante ( controlador de perilla sin tener q pausar todo ) 
+- vco a vca y vca a parlante ( controlador de perilla sin tener q pausar todo )
+
+  ### Practica
+  - chip cd4093
+  - m-82 
