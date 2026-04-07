@@ -1,5 +1,10 @@
 # sesion-04a #
 
+>***Recordatorio, Ingresar la información y aprendisajes del libro _Code As Creative Medium_***
+>
+> ***Joya de la animación recomendada para ver y que me recordé de su existencia [https://www.youtube.com/watch?v=DKk2q89LyrA]***
+>> Favor de ver el capitulo completo, buenas referencias que entendí gracias a esta clase
+
 ## Apuntes ##
 
 La clase inicio con un pequeño resumen / repaso sobre algunos términos y conceptos, donde lo que más destaco es la tabla con las potencias de 10 (la cual tengo en mi bitacora física pero no tan bonita como acá) 
