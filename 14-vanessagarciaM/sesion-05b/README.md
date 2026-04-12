@@ -22,6 +22,6 @@ Nosotros decimos que es aesthetic
 ## CHIP NUEVO 4017
 
 ![chip](./imagenes/chip-4017.png)
-![chip](./imagenes/chip.jpeg)
+![chip](./imagenes/chip.jpg)
 
 El orden de las salidas está desordenado
