@@ -9,6 +9,13 @@ El día de hoy vamos a ver en estas letras lo siguiente:
 2. profundización del circuitos astable y monostable con el chip 555, interconectando ambos en cascada.
 3. El encargo 04, respectivo a esta unidad.
 
+## 1. La notación científica usada para describir resistencias y condensadores.  
+La notación científica se usa porque los valores en electrónica pueden ser muy grandes o muy pequeños, y escribirlos completos sería poco práctico.
+Se basa en potencias de 10.
+
+Para eso debemos entender que:  
+
+
 ## 2. Profundización del circuitos astable y monostable con el chip 555, interconectando ambos en cascada.
 ![cascada](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/imgastableymonostable.jpg)
 
