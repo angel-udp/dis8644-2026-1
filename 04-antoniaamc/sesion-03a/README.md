@@ -104,7 +104,25 @@ RV resistencia 7/6
 ***La señal actúa y LED es como la pantalla***
 
 
-*Segundo bloque*
+### Resumen  
+(me ayudó chatgepete)
+
+𝑓=1/𝑇  
+f=1/T  
+𝑇=1/𝑓  
+T=1/f  
+𝑇=𝑡/𝑛  
+T=t/n  
+Frecuencia = ciclos por segundo  
+Período = duración de un ciclo  
+↑ C → ↓ frecuencia  
+↑ R → ↓ frecuencia  
+La oscilación ocurre en la salida del circuito, no en el LED.  
+El LED solo indica la señal.  
+Alimentación: 9V  
+
+
+# *Segundo bloque*
 
 ### Referentes:
 
@@ -135,10 +153,10 @@ fuente: Irina Mishina
 ## David Tudor:
 David Tudor (1926–1996) fue un pianista y compositor estadounidense, ampliamente reconocido por su papel pionero en la interpretación de música experimental y en el desarrollo de la música electrónica en vivo. Su colaboración con **John Cage** (frends bffs) definió una era en la música contemporánea del siglo XX. A partir de los años sesenta, Tudor dejó de ser principalmente intérprete para dedicarse a la creación de sistemas sonoros y circuitos electrónicos que funcionaban como instrumentos en sí mismos. Ha sido posicionado como precursor de la performance electrónica en vivo y del uso escultórico del sonido.
 
-fuente: su [página de wikipedia]<https://es.wikipedia.org/wiki/David_Tudor>
+fuente: su [página de wikipedia](https://es.wikipedia.org/wiki/David_Tudor)
 
 Steim Slaapkamer Muziek (16/06/1994)
-<https://www.youtube.com/watch?v=Fo30MgBRQO0>
+[video](https://www.youtube.com/watch?v=Fo30MgBRQO0)
 
 
 Matt (no anoté el apellido...) oscilador victoriano (macumbista)
@@ -166,27 +184,10 @@ Puede ser momentáneo o perdurar en el tiempo.
 Capacitor - Inductor (hace lo contrario, no lo vamos a ver en el curso).
 
 
-### Resumen (me ayudó chatgepete)
-
-𝑓=1/𝑇  
-f=1/T  
-𝑇=1/𝑓  
-T=1/f  
-𝑇=𝑡/𝑛  
-T=t/n  
-Frecuencia = ciclos por segundo  
-Período = duración de un ciclo  
-↑ C → ↓ frecuencia  
-↑ R → ↓ frecuencia  
-La oscilación ocurre en la salida del circuito, no en el LED  
-El LED solo indica la señal  
-Alimentación: 9V  
-
-
 ### Anexo: Componentes electrónicos y símbolos
 
 ![componentes](./componentes-electronicos-y-sus-simbolos.jpg)  
-Fuente: https://www.facebook.com/Aprendoinge/posts/conoce-algunos-de-los-componentes-electr%C3%B3nicos-mas-populares-y-sus-s%C3%ADmbolos/747408897606357/ 
+[Fuente](https://www.facebook.com/Aprendoinge/posts/conoce-algunos-de-los-componentes-electr%C3%B3nicos-mas-populares-y-sus-s%C3%ADmbolos/747408897606357/)
 
 jejeje  
 ![componentes](./componentes-minecraft.jpg)  
