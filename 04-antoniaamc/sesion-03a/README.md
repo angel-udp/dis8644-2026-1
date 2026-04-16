@@ -70,25 +70,24 @@ Si disminuye la frecuencia, el período aumenta
 
 *revisar estos apuntes… (los escribi a la rapida)
 
-- Si C se hace más grande, la frecuencia baja. 
-- A sube, T baja. (cambiado más adelante por frecuencia <-> período)
-- RV resistencia 7/6 mayor a 1kg 
-- ~~la oscilación no ocurre en el led~~, se manifiesta, ocurre en la patita
-- oscilación puede ocurrir en cualquier frecuencia 
+- Si C se hace más grande, la frecuencia baja.   
+- A sube, T baja. (cambiado más adelante por frecuencia <-> período)  
+- RV resistencia 7/6 mayor a 1kg  
+- ~~la oscilación no ocurre en el led~~, se manifiesta, ocurre en la patita  
+- oscilación puede ocurrir en cualquier frecuencia  
 - voltaje 9V
 
-##Corrección:
+## Corrección:
 
-###Sobre el circuito###
+### Sobre el circuito
 
 1. **Si C se hace más grande, la frecuencia baja.**
-  
-Un condensador (con números) más grande tarda más en cargarse/descargarse -> ciclos más lentos -> menor *frecuencia (f)*.
+   Un condensador (con números) más grande tarda más en cargarse/descargarse -> ciclos más lentos -> menor *frecuencia (f)*.
 
-2. **Resistencia variable (RV)**
-
-- Controla la frecuencia junto con el condensador
+3. **Resistencia variable (RV)**
+- Controla la frecuencia junto con el condensador  
 - Mayor resistencia -> carga más lenta -> menor *frecuencia (f)*.
+
 
 Preguntar por:
 
@@ -102,8 +101,7 @@ RV resistencia 7/6
 **Correcióon:**
 
 - La oscilación ocurre en la salida del circuito (pin del 555)
-
-- El LED solo muestra esa oscilación (parpadea)
+- - El LED solo muestra esa oscilación (parpadea)
   
 ***La señal actúa y LED es como la pantalla***
 
