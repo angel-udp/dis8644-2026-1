@@ -53,4 +53,15 @@ As a way of sumary:
 Lord!, por ahora pondré mis apuntes express realizados en clase, pero cuando termine de organizarlos en limpio, los actualizo así super chusquis. 
 Besitos y ty.
 
+This one is "OR"
+![OR](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/or.jpeg)
+
+This one is "AND y NOT"
+![AND Y NOT](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/and-y-not.jpeg)
+
+This one is "NAND"
+![NAND](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/nand.jpeg)
+
+Por las precarias!
+
 
