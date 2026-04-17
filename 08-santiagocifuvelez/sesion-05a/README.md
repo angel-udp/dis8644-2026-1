@@ -22,3 +22,5 @@ En pocas palabras, es una plataforma donde puedes crear sonidos desde cero conec
 Agregando a lo anterior, VCV Rack es como un “laboratorio digital” donde construye tus propios sintetizadores pieza por pieza y exploras cómo se genera y transforma el sonido.
 
 ## 2.	Abreviaturas y sus significados.  
+
+Aquí tenemos unas abreviaturas utilizadas en VCV RACK, que nos ayudarán a entender las funciones de los elementos que tengan estas “iniciales”. 
