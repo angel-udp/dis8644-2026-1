@@ -3,7 +3,7 @@
 
 ![Tododaigual](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-05a/imagenes/img2.png)
 
-Hola Profe Aron, Misa y Emi. Espero que se encuentren bien el día en el que estén leyendo estos textos.
+Hola Profe Aron, Misa y Emi. Espero que se encuentren bien el día en el que estén leyendo estos textos.  
 El día de hoy vamos a ver:  
 
 1.	Simulador de Eurorack.  
