@@ -11,7 +11,7 @@ Me gustaría poder usar esto ya que como él mencionó, uno debe tener un portaf
 
 - Misaa
 
-### imagenes de proceso
+Es importante saber que la vida no es una grilla y eso también lo saben los chips.
 
 ### post-clase
 
