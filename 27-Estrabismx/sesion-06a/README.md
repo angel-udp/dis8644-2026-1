@@ -18,11 +18,11 @@ Se inicia la clase con los tradicionales 30 minutos _offside_, que en lo persona
 
 - Aesthetic Programming: A Handbook of Software Studies
 
-  -
+  - Se analiza al código más que meramente como software, sino que se plante como herramienta estetica y política. Todo esto es analizado desde el como impacta la cultura dentro del desarrollo de software
 
 - The Nature of Code: Simulating Natural Systems with JavaScript
 
-  -
+  - Guia sobre código en p5.js (que no es más que JavaScript), enseña a recrear comportamientos de la naturaleza mediante código, como pueden ser las leyes de movimiento de Newton hasta fractales, evolución genética y redes neuronales
 
 <br>
 
@@ -130,17 +130,58 @@ El proceso inicio en esta clase y continuo hasta siguientes sesiones
 
 <br>
 
-1. Clock
-
-2. Secuenciador
-
-3. Sintetizador
-
-4. Salida
+![Sintetizador](./imagenes/sc08.png)
 
 <br>
 
-[Tabla de organización grupal]
+Por lo que podemos ver tenemos 4 secciones:
+
+1. Clock → 555
+
+2. Secuenciador → 4017
+
+3. Sintetizador → 4093
+
+4. Salida → 386
+
+<br>
+
+### Organización grupal ###
+
+Considerando que el proyecto consta de 4 chips, separamos el trabajo de manera que cada una pudiera realizar uno de los circuitos, para luego conectarlos entre sí. Esta idea en la practica puede resultar útil, pero nosotras lo realizamos sin establecer directrices, por lo que cada quien realizó todo como prefería, entonces al momento de interconetar todo, no funcionó. Lo siguiente no fue la mejor manera de solucionar todo, ya que nos separamos en parejas para **rehacer** 2 circuitos cada par, pero nuevamente sin lineamientos generales, logrando así que lo que antes funcionaba, ya no lo hiciera y al revés 
+
+  Inicialmente daban señales de vida el Clock (555 Astable) y el Secuenciador (4017), pero luego en la 2da parte, estos dejarán de funcionar, no así el Sintetizador (4093) y la Salida (386).
+
+  Algo que se descubrió en este proceso es lo ya mencionado, **directrices**, cuando se logró hacer funcionar al 4093 y 386, lo que cambió fue el orden y parámetros clave. Entendiendo que el Sintetizador funciona con las 4 compuertas NAND del 4093, todas poseen la misma lógica de armado, entonces se establecio:
+
+| De        | Hasta         | Color    |
+| --------- | ------------- | -------- |
+| Chip      | Capacitor     | Amarillo |
+| Capacitor | Potenciometro | Gris     |
+| Chip      | Potenciometro | Naranjo  |
+| Chip      | Step ____     | Blanco   |
+
+La lista es obviamente más larga, pero la idea es entender que se esteblecio un sistema para entender bien que todo esté conectado donde corresponde. Esto ayudo enormemente no solo en entender y corroborar, sino que al momento de armarlo, se podía realizar de manera más eficiente. Lo que podría mejorar aún más esto, es el etiquetar cada cable con su compuerta NAND correspondiente, estó haría todo mucho más comodo.
+
+<br>
+
+### Imagenes ###
+
+<br>
+
+![Proceos](./imagenes/proceso00.jpg)
+
+![Proceos](./imagenes/proceso01.jpg)
+
+![Proceos](./imagenes/proceso02.jpg)
+
+![Proceos](./imagenes/proceso03.jpg)
+
+![Proceos](./imagenes/proceso04.jpg)
+
+<br>
+
+### Trabajo Post-Clase ###
 
 Finalizando la clase se nos informó en que consistia la entrega, sumado a la realización y funcionamiento del Sintetizador Modular, debemos encapsularlo en una caja de cartón (lastimosamente para mí, ya que quería diseñar algo en 3d, pero encontraré la manera de introducir mi mayor afición a este proyecto). Esta debe poseer una Interfaz, es decir, que se pueda entender el como utilizar sin necesidad de leer una guia o manual
 
