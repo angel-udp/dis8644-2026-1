@@ -18,8 +18,8 @@ Hoy se nos presentó que realizaremos de primera entrega: un sintetizador
 | VCO   | Oscilador Controlado por Tensión         | Genera señales periódicas cuya frecuencia depende del voltaje de entrada   | Generar la señal base (onda)               | Frecuencia (pitch)       |
 
 Salida de VCO
-![vco](imagenes/vco.jpg)
 
+![vco](imagenes/vco.png)
 
 ![RUIDO](imagenes/ruido.jpg)
 
