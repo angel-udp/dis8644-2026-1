@@ -4,19 +4,19 @@
 
 "Más 2 decimas por decirle a los compañeros de arriba que no arrastren las mesas."
 
-1. Arreglos en los Chips por ejemplo colocando una resistencia de la pata 3 del chip 555 a la pata 14 del chip 4017. Por lo que esta resistencia ayuda a estabilizar (R Pull Down)
+1. Arreglos en los chips, por ejemplo colocando una resistencia de la pata 3 del chip 555 a la pata 14 del chip 4017. Por lo que esta resistencia ayuda a estabilizar (R pull-down).
 
-2. Condensador desacople: se conectan lo mas cerca del chip y a tierra
+2. Condensador de desacople: se conectan lo más cerca del chip y a tierra.
 
-3. Condensador acople
+3. Condensador de acople.
 
-4. Fuentes de energía alternativas: Según los DA-ASHEET
+4. Fuentes de energía alternativas: según los datasheet.
 
 - 9V si: Batería como las que tenemos
 - 12V si: Batería de auto, Paneles solares
 - 5V si: USB-A, power bank
 
-Los cargadores se calientan porque todo movimiento genera fricción
+Los cargadores se calientan porque todo movimiento genera fricción.
 
 ---
 
