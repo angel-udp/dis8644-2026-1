@@ -14,4 +14,4 @@ Nuestras sospechas es que la parte que no estaba funcionando era la del chip nes
 
 ![Proyecto pensado a hacer](./imagenes/NANDulator_circuito.gif)
 
-![video del circuito](https://photos.app.goo.gl/w4QpfzAPTkAFwsRP7)
+[video del circuito](https://photos.app.goo.gl/w4QpfzAPTkAFwsRP7)
