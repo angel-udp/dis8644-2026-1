@@ -7,7 +7,7 @@
 
 - Misaa
 
-### imagenes de proceso
+### imágenes de proceso
 
 ### post-clase
 
