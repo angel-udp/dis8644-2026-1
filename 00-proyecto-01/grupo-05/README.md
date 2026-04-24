@@ -79,6 +79,8 @@ Al integrar el secuenciador CD4017, logramos transformar los pulsos del 555 en u
 * **Ciclo de Bucle Infinito:** Mediante la conexión del Pin 15 (Reset) al Pin 10, logramos que el chip reinicie la cuenta inmediatamente al llegar a la cuarta nota, eliminando silencios y creando un bucle continuo de 4 pasos.
 * **Habilitación Operativa:** La conexión del Pin 13 (Clock Enable) a negativo garantizó que el chip se mantenga siempre receptivo a los pulsos, asegurando la fluidez constante de la melodía sin interrupciones.
 
+https://github.com/user-attachments/assets/ca56fdc2-1322-43c1-b279-125fb3cec267
+
 **Etapa 3: Control de Frecuencia y Conmutación (Transistores 2N2222)**
 
 En esta etapa, los transistores actúan como interruptores lógicos que seleccionan qué nota debe sonar en cada paso de la secuencia. Orientando el transistor con su lado plano hacia nosotros, realizamos las siguientes conexiones:
@@ -88,7 +90,7 @@ En esta etapa, los transistores actúan como interruptores lógicos que seleccio
 * **Colector (Pata Derecha):** Es la vía de salida que lleva la información de control hacia el CD4093 (oscilador de audio). Al activarse el transistor, el colector permite que el circuito del 4093 genere el tono específico asignado a ese paso de la secuencia.
 
 
-## Proceso y resultados de osciladores y amplificador
+## proceso y resultados de osciladores y amplificador
 
 **Etapa 4: Generación de Tonos (Osciladores NAND CD4093)**
 
@@ -114,7 +116,7 @@ Mezcla de Salida: Las salidas de audio de cada nota (Pines 3, 4, 10 y 11) se uni
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 
-## Modificaciones realizadas a los circuitos originales
+## modificaciones realizadas a los circuitos originales
 
 incluir texto, imágenes sobre modificaciones realizadas a los circuitos originales, incluyendo el proceso de diseño, pruebas y resultados obtenidos.
 
@@ -176,6 +178,6 @@ A lo largo del desarrollo del OPEN-BEAT KRAFT, enfrentamos varios desafíos téc
     La solución: Descubrimos la importancia del Pin 13 (Clock Enable), que debe ir a negativo para que el chip funcione, y del Pin 15 (Reset), que conectamos al Pin 10 para cerrar el ciclo de 4 notas y crear un bucle infinito.
 
 
-## Conclusiones
+## conclusiones
 
 sobre modularidad, materialidad, trabajo en equipo, trabajo electrónico, trabajo maquinal.
