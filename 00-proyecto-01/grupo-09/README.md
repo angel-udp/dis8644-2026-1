@@ -122,7 +122,7 @@ La carcasa de *La Caja* está hecha de **cartón corrugado de desecho**, caja qu
 
 ### Diseño  
 
-El diseño de la carcasa de La Caja se basa en una estética de “honestidad constructiva”, donde la estructura del cartón adopta un enfoque industrial (estilo industrial) que deja a la vista ciertas partes de la complejidad interna de los cables por medio de unos pocos calados que representan la geometría del píxel, todo esto acompañado de costura de tripas electrónicas (cables). 
+El diseño de la carcasa de La Caja se basa en una estética de “honestidad constructiva”, donde la estructura del cartón adopta un enfoque industrial (estilo industrial: "forma de celebrar la funcionalidad y la belleza de los materiales, utiliza los materiales estructurales como elementos decorativos y estéticos") que deja a la vista ciertas partes de la complejidad interna de los cables por medio de unos pocos calados que representan la geometría del píxel, todo esto acompañado de costura de tripas electrónicas (cables). 
 
 ![Vista exterior con todos los componentes instalados](./imagenes/carcasa-exterior.png)
 
