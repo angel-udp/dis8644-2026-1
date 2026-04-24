@@ -143,6 +143,8 @@ https://github.com/user-attachments/assets/30f01b61-87bd-45d3-be96-2d65fa92969e
 
 La mayoría de las pruebas se realizaron entre el *modelado 3D* y la *medición directa de los componentes* en la protoboard, utilizando como referencia su forma y dimensiones dentro de la interfaz. Esto permitió ajustar posiciones, proporciones y relaciones entre los elementos antes del armado final.
 
+![proyecto-01-grupo-05](imagenes/midiendo-proyecto-01-grupo-05.jpg)
+
 En conjunto, la carcasa permite *contener el sistema, ordenar la interacción y hacer visible parte de su funcionamiento*.
 
 ## interconexión entre módulos
