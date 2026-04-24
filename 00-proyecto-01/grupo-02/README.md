@@ -224,7 +224,7 @@ En la parte electrónica aprendimos harto haciendo, más que nada a prueba y err
 
 Finalmente, usar modelado 3D y corte láser hizo que todo se viera más ordenado y que todo encajara mejor. En general, sentimos que el proyecto terminó siendo más completo, porque no era solo un circuito, sino un objeto que funciona y que también tiene una intención en cómo se ve y se usa.
 
-## bibliografia
+## bibliografía
 
 <https://www.elprocus.com/555-timer-pin-description-applications/>
 
